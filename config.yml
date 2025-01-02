@@ -1,0 +1,35 @@
+baseURL: ""
+languageCode: en-us
+title: Ross's Blog
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Welcome to Ross's Blog!"
+    Content: "I know, I know. It's not very flashy is it? I mean no pictures, no graphics, no social media links? What the heck is that all about? The truth is that this website is meant for the nerds who use lynx, the geeks who know what the 1mb club is, and the hackers who made the web a great place to be until advertisers decided to spread across it. I want it to be a place where I can show off a bit without giving money or clicks to Youtube or X. If that sounds good to you, then welcome aboard! And if not... I mean, the rest of the web is for you. What are you doing here? Shoo.
+      
+      Made lovingly with Hugo and Vim."
+  #socialIcons:
+    #-name: signal
+      #url: 'http://eff.org'
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
+  ShowShareButtons: false
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
