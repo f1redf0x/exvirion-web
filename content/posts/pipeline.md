@@ -1,7 +1,9 @@
 +++
 title = 'Pipeline'
 date = 2025-01-02T18:29:23-07:00
-draft = true
+draft = false
+tags = ["Cyber-Plumbing"]
+categories = ["Dirty-IT"]
 +++
 
 # Productivity log:
@@ -118,3 +120,10 @@ One thing I want my blog to be is a reflection of how tech actually is. I hope t
 
 To quote the guy from P90X: "I hate it, but I love it!"
 
+# Changelog:
+Almost as if to prove a point, I tested this post on my pipeline to see if netlify would automatically grab my changes to github. It did, but because I didn't change the Frontmatter draft param from true to false, I kept thinking that netlify made the mistake. Whenever you solve a problem you go through the 5 stages of troubleshooting:
+1. Denial - It was netlify!
+2. Anger - Why is it doing that?
+3. Depression - Ugh, is it going to be another hour?
+4. Bargaining - Maybe it just hasn't refreshed the cache yet!
+5. Acceptance - Welp, I must have screwed something up...
