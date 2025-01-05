@@ -2,6 +2,8 @@
 title = 'Using fuzzy finder as an alternative file browser!'
 date = 2025-01-04T16:43:38-07:00
 draft = false
+tags = ["fzf", "ripgrep"]
+categories = ["Custom Tools"]
 +++
 
 Ok, this one is nerdy and short, but it's made my life immeasurably better. There is a utility called fuzzy finder on most unix-based systems. It's purpose is simple... it fuzzy finds.
