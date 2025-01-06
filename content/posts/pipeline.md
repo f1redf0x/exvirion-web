@@ -1,5 +1,5 @@
 +++
-title = 'Pipeline'
+title = 'Human Made Problems: Why I do not fear AI will take my job'
 date = 2025-01-02T18:29:23-07:00
 draft = false
 tags = ["Cyber-Plumbing"]
@@ -100,7 +100,7 @@ You know why I'm not afraid of AI taking my job? Because that shell issue set me
 1. Back in the early days of gnome, removing the firefox app would uninstall the gui. I thought that removing the snap might have the same effect, So I uninstalled gnome and reinstalled it. Didn't work.
 2. Nuked the install and stripped more config files because I thought maybe some config file killed some key component for xorg.
 3. Read through the log file for Xorg for 45 mins and googled error messages. Nothing useful.
-4. Gave up and used chatgpt to no avail. It didn't get close, because how could it? It didn't know about my bashrc file.
+4. Gave up and used ChatGPT to no avail. It didn't get close, because how could it? It didn't know about my bashrc file.
 5. Just logged into another tty and used startx so that I could have some kind of gui to play around in.
 
 # My broken dmenu script:
@@ -122,7 +122,7 @@ One thing I want my blog to be is a reflection of how tech actually is. I hope t
 To quote the guy from P90X: "I hate it, but I love it!"
 
 # Changelog:
-Almost as if to prove a point, I tested this post on my pipeline to see if netlify would automatically grab my changes to github. It did, but because I didn't change the Frontmatter draft param from true to false, I kept thinking that netlify made the mistake. Whenever you solve a problem you go through the 5 stages of troubleshooting:
+Almost as if to prove a point, I tested this post on my pipeline to see if netlify would automatically grab my changes from github. It did, but because I didn't change the Frontmatter draft param from true to false, I kept thinking that netlify made the mistake. Whenever you solve a problem you go through the 5 stages of troubleshooting:
 
 1. Denial - It was netlify!
 2. Anger - Why is it doing that?

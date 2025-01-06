@@ -10,7 +10,7 @@ Seriously, it changed my entire outlook on things.
 
 I've spent over 10 years spending most of my free time watching technical videos on various computing topics. That is an unfathomable amount of hours of content. In that time, there have been a number of videos that helped to shape my perspective on computers and how they can be used. One of them stands above the rest though, and it can be located here:
 
-[https://www.youtube.com/watch?v=WgV6M1LyfNY](The Unreasonable Effectiveness Of Plain Text)
+[https://www.youtube.com/watch?v=WgV6M1LyfNY] (The Unreasonable Effectiveness Of Plain Text)
 
 
 "Wait, a video on plain text? What a letdown", I assume you must be thinking. That's ok, that was my reaction too when I saw it in my watchlist. But then I watched the video and immediately subbed to "No Boilerplate". This video changed my outlook on a lot of things. 
@@ -32,7 +32,7 @@ He somehow manages to fit all of these topics in a 14 minute video. All hail "No
 
 But if you still aren't convinced, there is a video I encourage you to watch to take Triss's ideas further.
 
-[https://www.youtube.com/watch?v=-RqoPoOQd7w&t=5s](The Actual UNIX Philosophy)
+[https://www.youtube.com/watch?v=-RqoPoOQd7w&t=5s] (The Actual UNIX Philosophy)
 
 This video is a breakdown of the Unix philosophy and explains how and why that neckbeard in your office can literally solve ANY problem that you have with a command line. 
 
