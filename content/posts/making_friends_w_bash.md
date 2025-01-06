@@ -1,12 +1,12 @@
 +++
 title = 'How to Make friends with Bash!'
 date = 2025-01-05T19:13:14-07:00
-draft = true
+draft = false
 tags = ["scripting", "lynx"]
 categories = ["Social"]
 +++
 
-This'll be a short one, but I recently moved to a new city and it's always difficult to meet new people if you aren't part of some large organization or religion. One way to get familiar with new people is to use `https://meetup.com`. The issue I was facing is that the city I'm a part of is huge and there are a ton of groups. Trying to login to each group individually would take like 20 minutes if I just wanted to see what they were up to. So here's a little script that will give us all of the group urls, event names, and times so that I can see if any of them interest me this week.
+This'll be a short one, but I recently moved to a new city and it's always difficult to meet new people if you aren't part of some large organization or religion. One way to get familiar with new people is to use `https://meetup.com`. The issue I was facing is that the city I'm a part of is huge and there are a ton of groups. Trying to login to each group individually would take like 20 minutes if I just wanted to see what they were up to. So here's a little script that I made with chatGPT and some unix philosophy magic that will give us all of the group urls, event names, and times so that I can see if any of them interest me this week.
 
 Here's the script:
 
@@ -58,6 +58,6 @@ The script is pretty self explanatory with the comments, but the gist is:
 
 The result of this script is that I have a list of all the activity names and times.
 
-If you couldn't tell by the fact that I wrote a friend gathering script in bash, I'm an introvert, so most of these meetings won't make the cut. But if I see one I like, the url for that activity is right there for pasting so that I can get the address.
+If you couldn't tell by the fact that I have  a friend gathering script in bash, I'm an introvert, so most of these meetings won't make the cut. But if I see one I like, the url for that activity is right there for pasting so that I can get the address.
 
 I don't see the need to take those items and put them in my calendar, but I think that would be an improvement that could be made to the script.
