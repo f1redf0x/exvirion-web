@@ -59,7 +59,7 @@ So what could really be done about this?
 
 # The Bernaysian Stamp:
 
-At one point, the lead nerd of one particularly frustrating project said the following phrase to me: 
+At one point, Keenan, the lead nerd of one particularly frustrating project said the following phrase to me: 
 
 ```
 "You know what. Screw it. I'm not going to build the plane while I fly it anymore!". 
@@ -67,13 +67,15 @@ At one point, the lead nerd of one particularly frustrating project said the fol
 
 There was something about that image that was really powerful. He had somehow managed to sum up the entire problem in 12 words, with a visual that implied that we were crashing and it was about to kill all the passengers. I later found out that this phrase was muttered by another nerd who was venting about her project, and she heard it from another nerd who was venting about her project. *Remember that detail, it's going to be important later.
 
-So when we walked into our next meeting with the manager and not the client, we had a frank heart to heart. Hey, we think this is the solution, and we want to get you the data you need to keep the client happy, but we aren't going to "we aren't going to build the plan while we fly it". The manager paused for a second. 
+So when we walked into our next meeting with the manager and not the client, we had a frank heart to heart. Hey, we think this is the solution, and we want to get you the data you need to keep the client happy, but "we aren't going to build the plane while we fly it". The manager paused for a second. 
 
 "You know what, you guys are right. We don't want this thing to crash. How much time do you actually need to get this off the ground." 
 
-We were stunned. We let him know that we would know if we had lift if we could accomplish task A and B, and that we needed about 3 days to check those two out, and that we likely needed a week to implement several other features. 
+We were stunned. We let him know that everything was condition on if we had lift with one of the ideas. We would know we had lift if we could accomplish task A and B, and we needed about 3 days to check those two tasks out. If we were good after that, we likely needed a week to implement several other features that the client requested. 
 
 And just like that, we magically had the time we needed.
+
+We had pitched ideas exactly the same way before, with measured responses, a timeline, and a gameplan. Yet, every time we asked for a week, we were denied. What was it about that phrase that changed our manager's mind?
 
 # Bring In Bernays:
 
@@ -119,7 +121,7 @@ The implied social contract here is pretty easy to understand, but let's lay it 
 2. A person who is following the contract to the letter of the law is doing the right thing.
 3. Any requests for additional work need to be added to the contract for validity.
 4. Any requests for additional work not added to the contract are invalid.
-5. If you don't like the work or don't like the contractor, don't sign the contractor.
+5. If you don't like the work or don't like the contractor, don't sign the contract.
 
 Side Note: Letter of the Law is another Bernaysian Stamp.
 
@@ -133,10 +135,10 @@ In the 2020's the narrative about work started changing when this Bernaysian Sta
 3. If you don't want to do more than your contract requires, you are handing in a resignation.
 4. Employers should fire employees who don't do more than the contract requires.
 
-Obviously, this stamp is rewrites the social contract as employers see the situation. It seems to say, "I'm the boss, you do what I say even if you never agreed to it. If you don't like it, leave". Of course, millenials have a different perspective from contract professionals and employers so they came up with the following:
+Obviously, this stamp rewrites the social contract as employers see the situation. It seems to say, "I'm the boss, you do what I say, even if we never talked about some of your responsibilities when you were hired. If you don't like it, leave". Of course, millenials have a different perspective from contract professionals and employers so they came up with the following:
 
 ## Act Your Wage:
-After the news started propagating the "quiet quitting" stamp into the cultural zietgeist, millenials on Reddit fired back with, "I'm not quiet quitting, I'm acting my wage"
+After the news started stamping "quiet quitting" onto the cultural zietgeist, millenials on Reddit fired back with, "I'm not quiet quitting, I'm acting my wage"
 
 1. Your pay is tied to the level of responsibility that you take on.
 2. If you take on more responsibility, you deserve greater pay.
@@ -152,9 +154,9 @@ First: start out with a social contract item that you'd like to change. In my ca
 Second: Brainstorm a bunch of potential one-liners that explain your point. 
     * It's time to scale or fail
     * Don't reinvented the wheel
-    * Have the cusomer order off the menu
+    * Have the customer order off the menu
     * Let's keep it DRY; don't repeat yourself
-    * We ain't Etsy.
+    * We ain't Etsy, stop handmaking stuff
 
 Third: Whenever discussions on that topic occur, use those phrases whenever it feels natural to do so. Make sure everyone has a chance to hear each of them.
 
