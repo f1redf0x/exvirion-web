@@ -101,6 +101,7 @@ The use of such a phrase implies consent to the rewrite."
 ```
 
 So when my friend used the phrase "Build the Plane while flying it", the implied message is the following:
+
 1. Once an idea is in the air, it will fly or crash.
 2. Trying to save the idea after it's in the air is uneccessarily risky.
 3. It's better to develop an idea on the ground before flying it.
@@ -152,6 +153,7 @@ So we've learned that the adoption of a Bernaysian Stamp can change the expectat
 First: start out with a social contract item that you'd like to change. In my case, I was tired of custom solutions when what we really needed was repeatable, automated solutions for certain consistent issues that we faced.
 
 Second: Brainstorm a bunch of potential one-liners that explain your point. 
+    
     * It's time to scale or fail
     * Don't reinvented the wheel
     * Have the customer order off the menu
