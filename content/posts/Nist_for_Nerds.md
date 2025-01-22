@@ -1,5 +1,5 @@
 +++
-title = 'Nist for Nerds'
+title = 'NIST CSF for Nerds'
 date = 2025-01-21T19:19:20-07:00
 draft = false
 tags = ["CyberSecurity"]
