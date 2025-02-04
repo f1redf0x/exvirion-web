@@ -1,5 +1,7 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
-draft = true
+draft = false
+tags = ["item1", "item2"]
+categories = ["item"]
 +++
