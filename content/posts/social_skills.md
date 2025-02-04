@@ -20,7 +20,7 @@ Without further adieu, let's talk about some of the techniques.
 
 Labelling is a technique where you state an observation in the form of "It looks like", "It seems like", and "It feels like". This is the most versatile trick that Chris teaches, but it's most basic use is to get people to open up.
 
-"It seems like your down." "You look pretty happy today." "It feels tense in here."
+"It seems like you're down." "You look pretty happy today." "It feels tense in here."
 
 You don't need to elaborate typically. These statements tend to be an invitation for a person to vent their emotions. Those who are having a rough time want to offload their frustrations and those that want to celebrate are looking for people to talk to. 
 
