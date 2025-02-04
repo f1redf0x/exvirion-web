@@ -10,7 +10,7 @@ categories = ["Productivity"]
 
 In my last job, the people were fantastic, the work fascinating, and the clients were decent folks even when things got pretty heated. The biggest problem I had to deal with on a daily basis wasn't anything to do with the normal frustrations of modern working; it was with the Time keeping system!
 
-# Time@IBM
+# The Old Time Keeping System
 
 The timekeeping system that my last employer used was awful. It was a website wrapper around some ancient salesforce application. There were a number of thin clients, but the website was the most recent (and most buggy)
 
