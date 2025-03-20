@@ -96,7 +96,7 @@ It might seem like I have a chip on my shoulder about law enforcement access to 
 
 My issue is more the following (with supporting links about cell-phone technology experiencing these issues to explain why I think this way):
 
-1. If law enforcement has a mechanism, that must mean that a backdoor exists. (Like the [ss7 backdoor in phone networks][https://www.theregister.com/2024/04/02/fcc_ss7_security/] 
+1. If law enforcement has a mechanism, that must mean that a backdoor exists. (Like the [ss7 backdoor in phone networks](https://www.theregister.com/2024/04/02/fcc_ss7_security/). 
 
 2. If a backdoor exists, it can at the very least be used legally or illegally by the company who created the back door (Which they may be incentivized to do). [Like when ATT sold data to law-enforcement that they weren't entitled to via warrant](https://www.techspot.com/news/66830-att-reportedly-paid-spy-customers-us-law-enforcement.html)
 
