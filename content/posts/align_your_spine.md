@@ -1,5 +1,5 @@
 +++
-title = 'Align your spine: Minding the gaps in your xybersecurity program'
+title = 'Align your spine: Minding the gaps in your cybersecurity program'
 date = 2025-04-03T13:42:34-05:00
 draft = false
 tags = ["Vulnerability-Management", "CyberSecurity"]
@@ -13,10 +13,10 @@ I recently just watched [a great interview](https://www.youtube.com/watch?v=be3U
 * The history of vulnerability databases
 * The value of having an unbounded score
 * Why clients need to focus on the quality over quantity of vulns
-* The history of the fiber backbone that runs the country.
-* Etc.
+* The history of the fiber backbone that runs the country
+* Etc
 
-There was one topic though that I felt I'd like to take a crack at. At the 33:42 minute mark of the video Steve Carter or Scott Kuffer asked the question:
+There was one topic though that I felt I'd like to take a crack at. At the 33:42 minute mark of the video, Steve Carter asked the question:
 
 ```
 What do you see as like the biggest gaps today in the technology or the biggest weaknesses and what do you see... in the coming years, changing with regard to the technology side of the house...? 
@@ -26,7 +26,7 @@ What do you see as like the biggest gaps today in the technology or the biggest 
 
 The way I see it, there are two REALLY big problems that need to be solved before one can fix the gaps in an organization.
 
-1. Conway's law cannot be broken.
+1. Conway's law.
 
 2. Tool Fatigue.
 
@@ -80,7 +80,7 @@ As companies continue to use more and more tools, their teams will be less and l
 
 I truly believe that there needs to be a concerted effort to educate CISOs that less is more when it comes to tooling and see if you can show them demonstrably that you can't just buy your way into cybersecurity.
 
-# The Spine: My Proposed solution
+# The Spine: My Proposed Solution
 
 If we take Conway's law and Tool Fatigue as the two biggest problems plaguing organizations, then the solution that'll fix this mess will be the concept that can utilize those principles as effectively as possible.
 
@@ -102,7 +102,7 @@ It's the spine that I feel is missing though.
 
 There are central clusers (which I'll call vertebrae) which house all the data flowing to the brain. Until these vertebrae are properly utilized, I feel that there will be significant gaps to cross.
 
-## Vertebrae 1: Firewalls, Routing, and switches
+## Vertebrae 1: Firewalls, Routing, and Switches
 
 All traffic in a network has to flow through these receptors and it's amazing to me how many companies aren't utilizing IDS/IPS tools like Snort on them. I remember back in school that Zeek/bro, a popular IDS could detect a kali instance by watching for calls to the Offensive Security apt mirrors. Not having at least a passive detection system on these devices will lead to a ton of missing warning shots.
 
