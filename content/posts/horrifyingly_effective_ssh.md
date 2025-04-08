@@ -1,5 +1,5 @@
 +++
-title = 'The Horrifyingly Effectiveness Of SSH'
+title = 'Horrifyingly Effective SSH'
 date = 2025-04-08T12:10:28-05:00
 draft = false
 tags = ["Cyber-Plumbing", "SSH"]
