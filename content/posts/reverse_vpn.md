@@ -8,7 +8,7 @@ categories = ["Gems", "Spy-phone"]
 
 # The Coolest Hacker Trick I've ever learned
 
-When I was just a pitiful script-kiddie, I spent hours watching Hak5 episodes. There was something so welcoming about Darren and Shannon explaining basic Linux skills. [In this hak5 technolust episode, Darrin does something that blew my mind.](https://youtu.be/b7qr0laM8kA?si=IRa2nHB6X4nKomPt&t=226) In the link in the last sentence, watch between 3:46 and 7:10 of the video. He describes a scenario where one of the client devices (in this case, a Lan Turtle)that connects to his vpn server is designated as a "vpn gateway" for all the other devices. 
+When I was just a pitiful script-kiddie, I spent hours watching Hak5 episodes. There was something so welcoming about Darren and Shannon explaining basic Linux skills. [In this hak5 technolust episode, Darren does something that blew my mind.](https://youtu.be/b7qr0laM8kA?si=IRa2nHB6X4nKomPt&t=226) In the link in the last sentence, watch between 3:46 and 7:10 of the video. He describes a scenario where one of the client devices (in this case, a Lan Turtle) that connects to his vpn server is designated as a "vpn gateway" for all the other devices. 
 
 The long and short of it is that any device that's connected to the vpn can hop through that gateway device as if it was sitting on the same network.
 
@@ -65,6 +65,8 @@ So now that I have an example of a master configuring a standard Ubuntu instance
 
 # What you need for a Client Gateway
 
+It's actually quite simple to make your own client gateway. You just need 4 things:
+
 * A VPN connection
 
 * IP Forwarding enabled
@@ -73,7 +75,7 @@ So now that I have an example of a master configuring a standard Ubuntu instance
 
 * NAT Masquerading
 
-Incidentally, this these are also the same techniques that used when [turning a linux device into a makeshift router](https://www.baeldung.com/linux/server-router-configure).
+Incidentally, these are also the same techniques that are used when [turning a linux device into a makeshift router](https://www.baeldung.com/linux/server-router-configure).
 
 So after all this time, it ends up being remarkably simple to setup. There is no need to rely on a commercial product to pull this off at all, though it is a ton easier to use a tool that handles the steps for you.
 
