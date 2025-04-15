@@ -19,7 +19,11 @@ I recently just watched [a great interview](https://www.youtube.com/watch?v=be3U
 There was one topic though that I felt I'd like to take a crack at. At the 33:42 minute mark of the video, Steve Carter asked the question:
 
 ```
-What do you see as like the biggest gaps today in the technology or the biggest weaknesses and what do you see... in the coming years, changing with regard to the technology side of the house...? 
+What do you see as ... the biggest gaps today 
+in the technology...and what do you see... 
+in the coming years, changing with regard 
+to the technology side 
+of the house...? 
 ```
 
 # The 2 biggest problems in IT cybersecurity

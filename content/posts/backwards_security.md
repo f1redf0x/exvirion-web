@@ -6,7 +6,7 @@ tags = ["Vulnerability-Management", "CyberSecurity", "HouseKeeping"]
 categories = ["CyberSecurity", "HouseKeeping"]
 +++
 
-Did you know that on average a CISO, the executive in an organization that focuses on cybersecurity,[has a shelf life of 18 - 26 months](https://www.ciso.inc/wp-content/uploads/2023/08/CISO-Report-2023-.pdf)? This number has been estimated to be as low as 17 months [by other groups](https://www.tenable.com/blog/the-average-ciso-tenure-is-17-months-don-t-be-a-statistic). 
+Did you know that on average a CISO, the executive in an organization that focuses on cybersecurity, [has a shelf life of 18 - 26 months](https://www.ciso.inc/wp-content/uploads/2023/08/CISO-Report-2023-.pdf)? This number has been estimated to be as low as 17 months [by other groups](https://www.tenable.com/blog/the-average-ciso-tenure-is-17-months-don-t-be-a-statistic). 
 
 Why do you suppose that is?
 
@@ -14,7 +14,7 @@ Easy, because no general can win a war on multiple fronts. I have no numbers to 
 
 - Vulnerabilities are discovered and found on systems faster than Remediation Teams can fix them.
 
-- Services and machines are being spun up faster than the asset management team can track.
+- Services and machines are being spun up faster than the Asset Management team can track.
 
 - Creating Ransomware [takes about 30 minutes, less if you know what you are doing](https://www.youtube.com/watch?v=UtMMjXOlRQc).
 
