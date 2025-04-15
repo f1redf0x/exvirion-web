@@ -8,11 +8,11 @@ categories = ["QTT"]
 
 # A Tip for Python Noobs
 
-Hello friends, this article is the next in what is sure to be a long line of quick tech tip posts. In this one, we're going to talk about one of python's biggest pain point and how to gracefully deal with it.
+Hello friends, this article is the next in what is sure to be a long line of quick tech tip posts. In this one, we're going to talk about one of python's biggest pain points and how to gracefully deal with it.
 
 ## Python's biggest problem
 
-In the deeply opinionated development landscape, you're sure to find conflicting advice about what makes a programming language good or bad. I'm not interested in that. What I am interested in is why my programs keep breaking even though they just worked last week.
+In the deeply opinionated development landscape, you're sure to find conflicting advice about what makes a programming language good or bad. I'm not interested in that. What I am interested in is why my programs keep breaking even though the script just worked last week.
 
 Python has a very active community that is constantly developing new tools, new libraries, and new editions of the language. This rapid pace of development is awesome because it means you can build practically anything really fast, but it comes with a HORRIBLE downside.
 

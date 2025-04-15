@@ -114,7 +114,7 @@ Oh My God, did you just see what I did? Notice how there are 2 127.0.0.1 address
 Ok, back to what we were doing; Go to your browser of choice and type this in the URL bar:
 
 ```
-http:127.0.0.1:8080
+http://127.0.0.1:8080
 ```
 
 Your browser will connect to the local port setup with ssh, which will take the browser and send it through the ssh server to the web application on the same box.
