@@ -2,8 +2,8 @@
 title = 'Quick Tech Tip: lsof'
 date = 2025-04-21T16:16:41-05:00
 draft = false
-tags = ["QTT", "Gems"]
-categories = ["CyberSecurity"]
+tags = ["Gems"]
+categories = ["CyberSecurity", "QTT"]
 +++
 
 So here is a newsflash for all non-Linux people:
