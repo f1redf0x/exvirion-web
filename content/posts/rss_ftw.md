@@ -32,6 +32,8 @@ In the early day of the web, there was a problem. Websites didn't have this two-
 
 Websites are really meant to be a one-way technology, and until apps and websockets became a thing, kind of had to be. People's computers are behind firewalls and firewalls only allow traffic to computers if the user initiated contact. 
 
+Side Note for the neckbeards: Yes, I know this is technically inaccurate because the protocol wouldn't even work if the server was initiating the connection because what would the browser even do with that info?
+
 Website servers don't know that your computer exists until you reach out first by clicking on the website link. But once they know your IP address, they can't just reach out to you whenever they feel like it. They need to wait for you to initiate a new connection. This is partially because of firewalls, and partially because it saves bandwidth. It's a good system; I'm a fan.
 
 This meant that users had ultimate control over their connections to servers, but it also meant that they had to manually go to every website that they liked to see if they had an update. It's like when you post a comment and furiously refresh the page to see if the likes go up. It's a lot of wasted clicking.
@@ -57,7 +59,7 @@ The best part? You don't have to check these feeds unless you want to. No more n
 There are a ton of RSS readers that you can choose. I can't tell you which one is the best. There are GUI ones like Feedly, Newsflash, or even email clients like Mozilla Thunderbird (though, I'd stay away from Mozilla, tbh). There are terminal ones like newsboat, nom, or neix. 
 
 
-I personally use newsboat because it works well with my operating system. You can configure it to launch specific RSS links in other applications. All my youtube stuff gets launched with mpv. All my blog stuff is opened in lynx. All the comics I like are opened in Brave or examined for pics and pulled into Zathura. I might write an article about how I set up my config file, but the point is there is no shortage of options, so experiment and go nuts! Find one that works for you!
+I personally use newsboat because it works well with my operating system. You can configure it to launch specific RSS links in other applications. All my youtube stuff gets launched with mpv. All my blog stuff is opened in lynx. All the comics I like are opened in Brave or examined for pics and pulled into sxiv. I might write an article about how I set up my config file, but the point is there is no shortage of options, so experiment and go nuts! Find one that works for you!
 
 # A quick note on ATOM vs RSS
 
