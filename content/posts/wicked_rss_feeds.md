@@ -25,34 +25,55 @@ https://canonical.com/careers/feed
 
 ## Vulnerabilities / Exploits:
 https://vulners.com/rss.xml?query=type%3Gobble "~Vulners"
+
 https://vulners.com/rss.xml?query=type%3Ahackerone "~HackerOne"
+
 https://vulners.com/rss.xml?query=type%3Acanvas "~Immunity Canvas"
 
 ## Places to Find New Resources:
 https://1mb.club/atom.xml
+
 https://512kb.club/feed.xml
 
 
 ## Blogs
 
 https://ubuntu.com/blog/feed
+
 https://www.omgubuntu.co.uk/feed
+
 https://micronews.debian.org/feeds/feed.rss
+
 https://hackaday.com/blog/feed/
+
 https://news.sophos.com/en-us/category/serious-security/feed/
+
 https://www.schneier.com/feed/atom/
+
 https://krebsonsecurity.com/feed/
+
 https://null-byte.wonderhowto.com/rss.xml
+
 https://chuck.is/feed.xml
+
 https://cleberg.net/feed.xml
+
 https://bobbyhiltz.com/atom.xml
+
 https://feeds.feedblitz.com/baeldung/linux&x=1
+
 https://www.hackers-arise.com/blog-feed.xml
+
 https://www.offsec.com/feed/
+
 https://www.kali.org/rss.xml
+
 https://www.darknet.org.uk/feed/
+
 https://threatpost.com/feed/
+
 https://www.blackhillsinfosec.com/feed/
+
 https://firedfox.netlify.app/index.xml
 
 ## Podcast
