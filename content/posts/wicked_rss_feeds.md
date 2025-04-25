@@ -62,27 +62,46 @@ https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485
 ## Youtube
 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCW6xlqxSY3gGur4PkGPEUeA "~Seytonic"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZNhwA1B5YqiY1nLzmM0ZRg "~Christian Lempa"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg "~Low Level"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC5--wS0Ljbin1TjWQX6eafA "~bigboxSWE"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g "~Awesome Open Source"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6mIxFTvXkWQVEHPsEdflzQ "~GreatScott!"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA "~No Boilerplate"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCMiyV_Ib77XLpzHPQH_q0qQ "~Veronica Explain"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCzh8wlTSYbdZCs__Djym5UQ "~WHID We Hack In Disguise"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg "~Hussein Nasser"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCyoaOIKSqZTiM9-QcoIbNSg "~NetSecProf"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ "~NetworkChuck"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw "~DEFCONConference"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZTPkdxlAKf-V33tqXwi3Q "~HackerSploit"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ "~Hak5"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCrZv07X-hsHqXjM-cxgRBhg "~Allen Holub"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "~Chris Titus Tech"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3VDCeZYZH7mCihtMVHqppw "~Matt Brown"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distrotube"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA "~ippsec"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC4dxXZQq-ofAadUWbqhoceQ "~DeviantOllam"
 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZNhwA1B5YqiY1nLzmM0ZRg "~Christian Lempa"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg "~Low Level"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5--wS0Ljbin1TjWQX6eafA "~bigboxSWE"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g "~Awesome Open Source"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6mIxFTvXkWQVEHPsEdflzQ "~GreatScott!"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA "~No Boilerplate"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMiyV_Ib77XLpzHPQH_q0qQ "~Veronica Explain"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzh8wlTSYbdZCs__Djym5UQ "~WHID We Hack In Disguise"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg "~Hussein Nasser"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyoaOIKSqZTiM9-QcoIbNSg "~NetSecProf"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ "~NetworkChuck"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw "~DEFCONConference"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZTPkdxlAKf-V33tqXwi3Q "~HackerSploit"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ "~Hak5"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrZv07X-hsHqXjM-cxgRBhg "~Allen Holub"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "~Chris Titus Tech"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3VDCeZYZH7mCihtMVHqppw "~Matt Brown"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distrotube"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA "~ippsec"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4dxXZQq-ofAadUWbqhoceQ "~DeviantOllam"
 
 # Summary
 
