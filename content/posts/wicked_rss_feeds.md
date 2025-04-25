@@ -8,7 +8,7 @@ categories = ["Gems", "Penetration Testing", "Misc"]
 
 I recently had the opportunity to meet with a few aspiring cybersecurity students and talk to them about the virtues of IDSes, IPSes, Firewalls, Honey Pots, and compensating controls. It was a blast, and it's clear that the future is in good hands with these professionals at the wheel.
 
-After my little talk, I told them about a tool that would help them learn how to hack WiFi even if they didn't have equipment. I had gotten the knowledge from [Black Hill's Security Blog](https://www.blackhillsinfosec.com/blog/). I asked if any of the students had heard of Black Hills, and they said. "No".
+After my little talk, I told them about a tool that would help them learn how to hack WiFi even if they didn't have equipment. I had gotten the knowledge from [Black Hill's Security Blog](https://www.blackhillsinfosec.com/blog/). I asked if any of the students had heard of Black Hills, and they said. "No". I responded that Black Hills was one of my favorite blogs that came across my RSS feed. I saw some puzzled looks.
 
 I then asked the students if they had ever heard of RSS. Some of them responded, "yes", but most shook their heads. I spent a few minutes showing them how to find RSS feeds on a page, then how to add them to a reader program. Pretty standard.
 
