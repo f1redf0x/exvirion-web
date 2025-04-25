@@ -14,6 +14,14 @@ I then asked the students if they had ever heard of RSS. Some of them responded,
 
 But I got asked in the class what feeds I would recommend them to look into and I didn't have a list. They asked if I could compile a list of resources for cybersecurity students so that they can get on top of things. So this is my attempt.
 
+# How to do RSS
+
+Although I've done [an article on this before](https://firedfox.netlify.app/posts/rss_ftw/), I was asked in class how to set up an RSS reader.
+
+For those who want to [use a commercial solution, I recommend this video.](https://www.youtube.com/watch?v=Q_ZvlvQof34)
+
+For those who want to do [Everything on the command line like a hacker or Linux Chad, I recommend this video from Luke Smith.](https://www.youtube.com/watch?v=hMH9w6pyzvU).
+
 # Formatting
 
 I will be copying lines from my URLS file for newsboat. This isn't a format that's compatible with most readers, but the links can be copy-pasted into an RSS reader. I will also separate them into categories in the headings. This is by no means a comprehensive list of all the links in my feed, but it's a good starting point for someone who doesn't know where to begin.
