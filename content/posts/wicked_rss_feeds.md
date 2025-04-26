@@ -18,9 +18,9 @@ But I got asked in the class what feeds I would recommend them to look into and 
 
 Although I've done [an article on this before](https://firedfox.netlify.app/posts/rss_ftw/), I was asked in class how to set up an RSS reader.
 
-For those who want to [use a commercial solution, I recommend this video.](https://www.youtube.com/watch?v=Q_ZvlvQof34)
+For those who want to [use an easy, GUI, commercial solution, I recommend this video](https://www.youtube.com/watch?v=Q_ZvlvQof34).
 
-For those who want to do [Everything on the command line like a hacker or Linux Chad, I recommend this video from Luke Smith.](https://www.youtube.com/watch?v=hMH9w6pyzvU).
+For those who want to do [Everything on the command line like a hacker or Linux Chad, I recommend this video from Luke Smith](https://www.youtube.com/watch?v=hMH9w6pyzvU).
 
 # Formatting
 
