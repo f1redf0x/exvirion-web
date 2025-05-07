@@ -2,7 +2,7 @@
 title = 'A little note on privacy'
 date = 2025-05-07T14:01:28-05:00
 draft = false
-tags = ["Other]
+tags = ["Other"]
 categories = ["Privacy"]
 +++
 

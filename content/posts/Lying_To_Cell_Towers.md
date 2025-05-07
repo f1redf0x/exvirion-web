@@ -2,8 +2,8 @@
 title = 'Lying To Cell Towers'
 date = 2025-05-07T15:50:58-05:00
 draft = false
-tags = ["item1", "item2"]
-categories = ["item"]
+tags = ["data"]
+categories = ["Spy-phone"]
 +++
 
 Not sure who needs to know this, but here's some fun trivia for you:
