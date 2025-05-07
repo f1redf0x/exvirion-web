@@ -39,7 +39,7 @@ Github refuses to let you login with a username or a password. Tell that to the 
 6. Add the key to your ssh agent:
 
 ```
-Start-Service ssh-agent
+eval $(ssh-agent)
 ssh-add ~/.ssh/id_ed25519
 ssh -T git@github.com
 ```

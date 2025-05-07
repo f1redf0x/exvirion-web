@@ -20,17 +20,17 @@ It's not just that I value open source, which I do. It's that these tools will a
 
 Not to come across as some paranoid nutjob (which I am), but the cell phone is as dangerous as it is useful. It:
 
-- Tracks you whether you want it to, or not. [Google](https://apnews.com/article/828aefab64d4411bac257a07c1af0ecb) [Apple](https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558)
+- Tracks you whether you want it to, or not. [Google](https://apnews.com/article/828aefab64d4411bac257a07c1af0ecb) and [Apple](https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558) are both guilty of over-riding your choices.
 
 - Is designed to be [highly addictive](https://www.npr.org/sections/alltechconsidered/2017/03/13/519977607/irresistible-by-design-its-no-accident-you-cant-stop-looking-at-the-screen).
 
-- And it's part of a large scale plan to make you [pay for everything more than once](https://www.theverge.com/2022/7/13/23206999/car-subscription-nightmare-heated-seats-remote-start). After all, if everything is an app, you can't exert any control.
+- And it's part of a large scale plan to make you [pay for everything more than once](https://www.theverge.com/2022/7/13/23206999/car-subscription-nightmare-heated-seats-remote-start). After all, if everything is an app, then any company can make it [illegal for you to fight back against abuse](https://www.eff.org/deeplinks/2019/06/felony-contempt-business-model-lexmarks-anti-competitive-legacy).
 
 So it's creepy, addictive, and actively plotting against your wallet. Not to mention that it'll [use your speakers to emit a high-pitched sound to alert devices of your presence.](https://www.wired.com/2016/11/block-ultrasonic-signals-didnt-know-tracking/).
 
-In short, it's a device that was never meant for you. It was a device that was meant for corporate interest. To quote Iraq from the watch_dogs game ["Who do you think is going to win between you... and business?"](https://youtu.be/02IK1LNF2o8?si=rQZqpWxKTR9Far7f&t=44)
+In short, it's a device that was never meant for you. It was a device that was meant for corporate interests. To quote Iraq from the watch_dogs game ["Who do you think is going to win between you... and business?"](https://youtu.be/02IK1LNF2o8?si=rQZqpWxKTR9Far7f&t=44)
 
-A couple years ago, I was tethered to my smart phone and I hated it, but I didn't have the skills to say no to it. I needed a phone number, an OTP app, encrypted messaging, my contacts list, a youtube client, etc.
+A couple years ago, I was tethered to my smart phone and I hated it because of how dependent I had become on it, but I didn't have the skills to say no to it. I needed a phone number, an OTP app, encrypted messaging, my contacts list, a youtube client, etc.
 
 This year, I'm close to being free from a smartphone running my digital life and I'll share some of the replacements I use.
 
