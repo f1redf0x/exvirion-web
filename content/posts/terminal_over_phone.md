@@ -14,7 +14,7 @@ If I could pick a theme for this blog, it would most likely be "digital independ
 
 - Why use OBS-Streamlabs if you can use ffmpeg?
 
-It's not just that I value open source, which I do. It's that these tools will always be around if you are willing to put in the effort. Look at all the products Google and Microsoft have thrown away. And Linux? If you want, you can download every Linux package on a mirror and keep it for a future you [as seen here](https://computingforgeeks.com/creating-ubuntu-mirrors-using-apt-mirror/).
+It's not just that I value open source, which I do. It's that these tools will always be around if you are willing to put in the effort. Look at all the products Google and Microsoft have thrown away. [Especially Google](https://killedbygoogle.com/) And Linux? If you want, you can download every Linux package on a mirror and keep it for a future you [as seen here](https://computingforgeeks.com/creating-ubuntu-mirrors-using-apt-mirror/).
 
 # The Cell Phone
 
