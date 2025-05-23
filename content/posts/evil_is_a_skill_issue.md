@@ -34,9 +34,10 @@ But they are wrong.
 
 Evil is a skill issue, full stop.
 
-The following quote comes from the offensive mind of Louis C.K. Like him, or hate him, his comedy tackles subjects in a wildly different way than the standard binary thinking that we are all guilty of. This bit comes from the comedy special, "Oh My God", and the bit is called "Of Course, but Maybe." I'm writing it out because he can say some pretty crazy things because of his delivery style softening the blow. I want you to read this and feel the impact of the words themselves.
+The following quote comes from the offensive mind of Louis C.K. Like him, or hate him, his comedy tackles subjects in a wildly different way than the standard binary thinking that we are all guilty of. This bit comes from the comedy special, "Oh My God", and the bit is called "Of Course, but Maybe." I'm writing it out because he can say some pretty crazy things because of his delivery style softening the blow. I want you to read this and feel the impact of the words themselves, [but here is the Youtube link in case you have a hard time](https://www.youtube.com/watch?v=Ku0tIdBHy0w).
 
-```
+# Of course, but Maybe Quote:
+
 Everybody has a competition in their brain of good thoughts and 
 bad thoughts. Hopefully, the good thoughts win. For me, I always
 have both. I have like the thing I believe, the good thing, that’s 
@@ -97,7 +98,7 @@ But maybe...
 maybe every incredible human achievement in history was done with 
 slaves. Every single thing where you go, "how did they build those 
 pyramids?", they just threw human death and suffering at them until 
-they were finished. How did we traverse the nation witha railroad 
+they were finished. How did we traverse the nation with a railroad 
 so quickly? We just threw Chinese people into caves and blew them 
 up and didn't give a s*** what happened to them. There's no end 
 to what you can do when you don't give a f*** about a particular
@@ -116,9 +117,7 @@ You really have a choice...
 
 You can have candles and horses, and be a little kinder to eachother 
 or let someone suffer immeasurably far away just so you can leave 
-a mean comment on Youtube while you're taking a s***.
-```
-
+a mean comment on Youtube while you're taking a s***. "
 # My take on Louis's bit
 
 He's right... and wrong here. The examples he listed in the slavery portion of his act are functionally correct. Throughout our time on the planet, most of our greatest accomplishments were the result of targeted evil.
@@ -143,7 +142,7 @@ The heart of Republican matters is self-reliance and competition. Republicans wo
 
 # The Solution was Technical
 
-So, taking our same political system and throwing it back into the late 1800's, we see that it was just as ineffective then as it is now. So is that it then? Did we just embrace the evil, exploit some societal underclass, and throw human suffering at the manure. We certainly did for a while. The article mentioned committees and contractors... Everything I just described. So did New York become a mountain of feces?
+So, taking our same political system and throwing it back into the late 1800's, we see that it was just as ineffective then as it is now. So is that it then? Did we just embrace the evil, exploit some societal underclass, and throw human suffering at the manure? We certainly did for a while. The article mentioned committees and contractors... Everything I just described. So did New York become a mountain of feces?
 
 No. The problem went away in 5 years. We switched from horses to cars.
 
@@ -156,9 +155,12 @@ The thing is... this isn't a one-off.
 After the 13th amendment was passed, there was still a massive problem. The demand for cotton was high and the cost of picking it was terrible... hence... the evils of slavery. But when slavery was taken off the table? Around 15 years later, Robert Munger automates the Cotton Gin so thoroughly that the industry restructures itself. This quote from Wikipedia is important:
 
 ```
-Munger's motivation for his inventions included improving employee working 
-conditions in the gin. However, the selling point for most gin owners 
-was the accompanying cost savings while producing cotton both more 
+Munger's motivation for his inventions 
+included improving employee working 
+conditions in the gin. However, the 
+selling point for most gin owners 
+was the accompanying cost savings 
+while producing cotton both more 
 speedily and of higher quality.
 ```
 # How to beat the "evil game"
