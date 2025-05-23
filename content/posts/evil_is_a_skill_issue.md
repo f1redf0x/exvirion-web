@@ -22,17 +22,17 @@ Does that sound petty in comparison to their very real political concerns?
 
 You bet.
 
-But I can actually change my RAM consumption. I recently converted from XFCE to I3wm and the results are stunning. I have yet to see my friends change the political landscape with their hot-takes. The world is still evil, regardless of which political party is running it.
+But I can actually change my RAM consumption and see the consequences of my actions play out. I recently converted from XFCE to I3wm and the results are stunning. I have yet to see my friends change the political landscape with their hot-takes. It hasn't happened once. The world is still evil, regardless of which political party is running it and it has been since I was born... and it'll likely be so when I die.
 
 # Where Evil comes from
 
 To hear it from my Democrat friends, the root of evil is the greedy capitalist pigs who care about profits over humanity.
 
-From my Republican friends, the root of evil is the wicked spirit of progressivism tearing the nuclear family apart and killing out self-reliance.
+From my Republican friends, the root of evil is the wicked spirit of progressivism tearing the nuclear family apart and killing our self-reliance.
 
 But they are wrong.
 
-Evil is a skill issue, full stop.
+Evil is a society-wide skill issue, full stop.
 
 The following quote comes from the offensive mind of Louis C.K. Like him, or hate him, his comedy tackles subjects in a wildly different way than the standard binary thinking that we are all guilty of. This bit comes from the comedy special, "Oh My God", and the bit is called "Of Course, but Maybe." I'm writing it out because he can say some pretty crazy things because of his delivery style softening the blow. I want you to read this and feel the impact of the words themselves, [but here is the Youtube link in case you have a hard time](https://www.youtube.com/watch?v=Ku0tIdBHy0w).
 
@@ -41,7 +41,7 @@ The following quote comes from the offensive mind of Louis C.K. Like him, or hat
 Everybody has a competition in their brain of good thoughts and 
 bad thoughts. Hopefully, the good thoughts win. For me, I always
 have both. I have like the thing I believe, the good thing, that’s 
-the thing I believe and than there’s this thing. And I don’t believe 
+the thing I believe and then there’s this thing. And I don’t believe 
 it, but it is there. It’s always this thing and then this thing.
 It’s become a category in my brain that I call “of course, but maybe”.
 
@@ -90,7 +90,7 @@ Those kids did nothing to you.
 
 Of course, of course slavery is the worst thing that ever happened. 
 Of course it is! Every time its happened! Black people in America, 
-jews in Egypt, every time another race of people has been enslaved 
+Jews in Egypt, every time another race of people has been enslaved 
 it's a terrible, horrible thing... of course!
 
 But maybe...
@@ -213,6 +213,8 @@ Realize that the reason things are as screwed up as they are is because what we 
 4. More enjoyable
 5. Ethical
 
-Make robots that can coal mine. Create employment guilds that ensure worker quality and solid contracts. Defang criminal drug syndicates by getting street drugs sold by CVS and Walgreens. (I'm half joking about that... tops. You think that the cartels can match CVS? You're out of your mind.) You manage to pull that off, (in that order) and you'll have solved a major crisis and made the world a better place. Play the game better than the idiots who played us off a cliff.
+Do you think there is a chance that even the most malicious CEO wouldn't go with your idea if it hit all 5 of those qualifiers? The solid press alone would make a mint.
+
+If you want to save the world, solve problems. Make robots that can coal mine. Create employment guilds that ensure worker quality and solid contracts. Defang criminal drug syndicates by getting street drugs sold by CVS and Walgreens. (I'm half joking about that... tops. You think that the cartels can match CVS? You're out of your mind.) You manage to pull that off, (in that order) and you'll have solved a major crisis and made the world a better place. Play the game better than the idiots who played us off a cliff.
 
 In Short, stop complaining about politics and build more cool stuff!
